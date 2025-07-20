@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_toUqQGVDEfC0nv2KIEMH1w" label="Talendclouddemobank" description="Talend data integration projects" language="java" technicalLabel="TALENDCLOUDDEMOBANK" author="_toUqQWVDEfC0nv2KIEMH1w" productVersion="Talend Cloud Data Fabric-8.0.1.20250704_1436-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Teklai/Talendclouddemobank.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_tog3gGVDEfC0nv2KIEMH1w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_toUqQWVDEfC0nv2KIEMH1w" login="hteklai@aza.talend.com" firstName="Hailemichael" lastName="Teklai" type="DQ"/>
+</xmi:XMI>
